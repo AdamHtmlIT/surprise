@@ -5,11 +5,11 @@
     height: 100%;
     width: 50%;
     color: red;
-    -webkit-user-select: none; 
-    -ms-user-select: none;
-    user-select: none;
   }
 
 body {
     background-color: wheat;
+    -webkit-user-select: none; 
+    -ms-user-select: none;
+    user-select: none;
 }
